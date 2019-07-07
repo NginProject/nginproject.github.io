@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ngin: Search Engine Based Ecosystem</title>
-    <link>https://ngin.cash/</link>
-    <description>Recent content on Ngin: Search Engine Based Ecosystem</description>
+    <title>NGIN Weekly on Ngin: Search Engine Based Ecosystem</title>
+    <link>https://ngin.cash/ngweekly/</link>
+    <description>Recent content in NGIN Weekly on Ngin: Search Engine Based Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ngin.cash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ngin.cash/ngweekly/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
