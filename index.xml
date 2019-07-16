@@ -18,8 +18,9 @@
       
       <guid>https://ngin.cash/ngweekly/july2nd/</guid>
       <description>Hello everyone, this is NGIN Weekly.
-balanceSheet is not balance sheet Last week, we briefly introduced the vault architecture we introduced in ngWeekly. Just like the literal meaning, it is the existence of a safe to ensure the security of funds in the main chain.
-Today we will explain the important thing locked in the vault - balanceSheet. The balanceSheet is a k-v pool that runs and automatically updates the account instances among nodes as the transaction pool storing the txs.</description>
+balanceSheet is not balance sheet Last week, we briefly introduced the vault architecture we introduced in ngWeekly. Just like the literal meaning, it is the existence of a safe to ensure the security of funds in the main chain.
+Today we will explain the important thing locked in the vault - balanceSheet.
+The balanceSheet is a k-v pool that runs and automatically updates the account instances among nodes as the transaction pool storing the txs.</description>
     </item>
     
     <item>
