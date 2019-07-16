@@ -18,4 +18,4 @@ img {
     height:auto;
 }
 
-p { word-wrap:break-word; }
+p { word-break: normal; }
