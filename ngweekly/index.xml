@@ -6,7 +6,7 @@
     <description>Recent content in NGIN Weekly on Ngin: Search Engine Based Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ngin.cash/ngweekly/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>What is the Vault</title>
       <link>https://ngin.cash/ngweekly/july2nd/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ngin.cash/ngweekly/july2nd/</guid>
       <description>Hello everyone, this is NGIN Weekly.
@@ -26,7 +26,7 @@ The balanceSheet is a k-v pool that runs and automatically updates the account i
     <item>
       <title>What are we building?</title>
       <link>https://ngin.cash/ngweekly/july1st/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ngin.cash/ngweekly/july1st/</guid>
       <description>This is the beginning of ngWeekly I believe that before you read this NGIN Weekly, you have already got a general understanding of what the project wants to do through our official website and the original whitepaper on github.
