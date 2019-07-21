@@ -6,10 +6,22 @@
     <description>Recent content on Ngin: Search Engine Based Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ngin.cash/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Account is temporary and permanent</title>
+      <link>https://ngin.cash/ngweekly/july3rd/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ngin.cash/ngweekly/july3rd/</guid>
+      <description>Welcome to this week&amp;rsquo;s ngWeekly.
+Do you like our new logo?
+As mentioned above, we need to talk about the model of the account in the ngin network this week.
+Account&amp;rsquo;s content As we said in the last few weeks, we will need to store all the data in the network in the account, so in our design, most of the content is stored in []byte format, in order to ensure scalability, except The original content of this account is kept lean.</description>
+    </item>
     
     <item>
       <title>What is the Vault</title>
